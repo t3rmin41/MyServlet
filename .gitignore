@@ -1,0 +1,11 @@
+#Eclipse
+.settings/
+.project
+.classpath
+#Maven
+target/*
+#Common
+*log/
+/target/
+/build/
+*.war
